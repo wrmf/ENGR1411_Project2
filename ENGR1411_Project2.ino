@@ -1,6 +1,6 @@
 #include "pitches.h"
 
-const double DELAY = 1.00;
+const double DELAY = 5.00;
 
 int speaker = 4;         // the PWM pin the LED is attached to
 int tiltPin = 8;	  // tilt sensor pin is connected to pin 2
